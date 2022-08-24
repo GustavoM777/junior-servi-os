@@ -1,0 +1,22 @@
+:root {
+  --cor-primaria:crimson;
+  --cor-secundaria: #197cbe;
+  --cor-branca: #fff;
+  --cor-fundo-escuro: #040203;    
+  --cor-fundo: rgb(51, 10, 3);
+  --cor-preto: #000000;    
+}
+  
+:root {
+  --fonte-primaria: 'NexaBold', sans serif;
+  --fonte-secundaria: 'Poppins', sans serif;
+  --fonte-terciaria: 'Times New Roman', sans serif;
+  --fonte-gigante: 4.5rem;
+  --fonte-extra-grande: 3rem;
+  --fonte-grande: 2.4rem;
+  --fonte-normal: 1.6rem;
+}
+
+:root {
+  --mobile-padding: 30px;
+}
