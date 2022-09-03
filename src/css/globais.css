@@ -13,7 +13,12 @@ strong {
   color: var(--cor-primaria);
 }
 
-@media(max-width: 1280px) { 
+.btn {
+  padding: 0 130px;
+  padding-right: 160px;
+} 
+
+@media(max-width: 1400px) { 
   html {
       font-size: 50%;
   }
