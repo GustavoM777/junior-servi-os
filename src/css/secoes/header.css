@@ -18,6 +18,10 @@
     text-align: center;
 }
 
+#titulo {
+    font-size: 0.83em;
+}
+
 .header {
     background-color: var(--cor-fundo-escuro);
 }
