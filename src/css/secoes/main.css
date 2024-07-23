@@ -73,7 +73,7 @@
     flex-wrap: wrap;
     justify-content: center;
     align-self: center;
-    background: url(/src/imagem/parallax.jpg)center center no-repeat;
+    background: url(../../imagem/parallax.jpg)center center no-repeat;
     background-size: cover;
     height: 490px;
     background-attachment: fixed;

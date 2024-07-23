@@ -2,9 +2,9 @@
     display: grid;
     grid-template-rows: auto;
     grid-template-columns: 20% auto 20%;
-    background-color: crimson;
+    background-color: var(--cor-primaria);
     font-family: var(--fonte-terciaria);
-    color: white;
+    color: rgb(5, 5, 5);
     height: 100%;
     text-align: left;
     padding: 2px;
@@ -23,11 +23,11 @@
 }
 
 .header {
-    background-color: var(--cor-fundo-escuro);
+    background-color: var(--cor-branca);
 }
 
 .header .row {
-    border: 2px solid white;
+    border: 1px solid rgb(196, 193, 193);
     padding: 15px 10px;
 }
 
@@ -51,9 +51,9 @@
 
 .header nav ul li a {
     text-transform: capitalize;
-    color: var(--cor-branca);
+    color: #35363a;
     font-size: 1.4rem;
-    font-weight: 500;
+    font-weight: 800;
     padding: 10px 10px;
     transition: 0.2s;
     border-radius: 5px;
